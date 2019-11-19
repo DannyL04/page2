@@ -1,0 +1,21 @@
+* { 
+    background: wheat   ;
+}
+header {
+    display: flex;
+    justify-content: center;
+    font-size: 600%;
+    margin: 5%;
+}
+.images {
+    display: flex;
+    justify-content: space-evenly;
+    transform: skew(47deg);
+}
+img {
+    width: 32%X;
+}
+.text {
+    font-size: 20%;
+    color: azure;
+}
